@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-siwoo&layout=compact&theme=dark)
-![Siwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim-siwoo&theme=dark)
-
 <!--
 **lim-siwoo/lim-siwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
