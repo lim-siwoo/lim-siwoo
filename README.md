@@ -17,7 +17,7 @@
 ### [SolView: AI 기반 맞춤형 면접 시뮬레이션 서비스](https://github.com/sol-view/solview)
 - WebRTC 기술을 활용한 P2P 화상 통신 시스템 구축
 - ChatGPT 4-o1 API 연동을 통한 지능형 AI 면접관 구현
-- 면접 프로세스 및 결과 분석 알고리즘 개발
+- 면접 응답 데이터 기반 맞춤형 피드백 시스템 개발
 <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/></p>
 
 ### [실시간 인체 자세 인식 기반 자율주행 RC카](https://github.com/lim-siwoo/RcAct_RcCar)
