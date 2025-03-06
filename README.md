@@ -65,7 +65,7 @@
 
 ```python
 skills = {
-    "Languages": ["Python", "C/C++", "JavaScript", "Shell Script"],
+    "Languages": ["Python", "C/C++", "JavaScript", "TypeScript", "Shell Script"],
     
     "AI & Computer Vision": ["TensorFlow", "MediaPipe", "OpenCV"],
     
