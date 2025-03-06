@@ -26,7 +26,7 @@
 - MQTT 프로토콜을 활용한 IoT 기기 간 실시간 통신 구현
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/></p>
 
-### [HarmonyXR: 메타버스 음악 협업 플랫폼](https://github.com/HarmonyXR/harmonyxr)
+### [HarmonyXR: 메타버스 음악 협업 플랫폼](https://github.com/lim-siwoo/harmonyxr)
 - WebXR과 WebRTC 기술을 활용한 가상현실 음악 협업 환경 개발
 - Three.js를 이용한 3D 악기 모델 및 가상 공간 구현
 - PeerJS 기반 P2P 실시간 통신 시스템 구축
