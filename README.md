@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhaGlrc2lrYXprM3N1ZnJxZ2R0ZzEyaXJ4bzlkazYzeWY5aHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 현재 **NFC 테이블 오더** 프로젝트 진행중
-- 🌱 학습중: **클라우드 네이티브 개발**, **컴퓨터 비전 고급 기법**
+- 🌱 학습중: **클라우드 네이티브 개발**, **kubernetes**, **Spring boot**
 - 💬 전문 분야: **임베디드 시스템**, **실시간 영상처리**, **IoT**, **백앤드**, **인프라**
 - ⚡ 재미있는 사실: 중학생 시절 물로켓 경상남도 대회에서 대상을 수상한 경험이 공학의 길로 들어서는 계기가 되었습니다!
 
