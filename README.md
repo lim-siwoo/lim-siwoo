@@ -14,19 +14,19 @@
 
 ## 🚀 Recent Projects
 
-### [SolView: AI 기반 맞춤형 면접 시뮬레이션 서비스](https://www.solview.kr)
+### [SolView: AI 기반 맞춤형 면접 시뮬레이션 서비스](https://github.com/sol-view/solview)
 - WebRTC 기술을 활용한 P2P 화상 통신 시스템 구축
 - ChatGPT 4-o1 API 연동을 통한 지능형 AI 면접관 구현
 - 면접 프로세스 및 결과 분석 알고리즘 개발
 <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/></p>
 
-### [실시간 인체 자세 인식 기반 자율주행 RC카]()
+### [실시간 인체 자세 인식 기반 자율주행 RC카](https://github.com/lim-siwoo/RcAct_RcCar)
 - MediaPipe 라이브러리를 활용한 실시간 인체 자세 인식 알고리즘 구현
 - 라즈베리파이5 기반 온디바이스 AI 연산 최적화
 - MQTT 프로토콜을 활용한 IoT 기기 간 실시간 통신 구현
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/></p>
 
-### [HarmonyXR: 메타버스 음악 협업 플랫폼]()
+### [HarmonyXR: 메타버스 음악 협업 플랫폼](https://github.com/HarmonyXR/harmonyxr)
 - WebXR과 WebRTC 기술을 활용한 가상현실 음악 협업 환경 개발
 - Three.js를 이용한 3D 악기 모델 및 가상 공간 구현
 - PeerJS 기반 P2P 실시간 통신 시스템 구축
