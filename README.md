@@ -21,7 +21,7 @@
 - 자기소개서 OCR 자동 분석 및 직무별 맞춤형 질문 생성 알고리즘 설계
 - OAuth2.0 기반 사용자 인증 및 JWT를 활용한 보안 시스템 구현
 - Jenkins와 Docker를 활용한 CI/CD 파이프라인 구축 및 자동화된 배포 환경 관리
-- 2025년 상반기 삼성청년SW아카데미(SSAFY) 특화 프로젝트 우수상 수상
+- 2025년 상반기 삼성청년SW아카데미(SSAFY) 공통 프로젝트 우수상 수상
 - **프로젝트 PM 역할 수행**: JIRA를 활용한 애자일 개발 프로세스 관리 및 스크럼 미팅 주도
 <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/></p>
 
