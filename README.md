@@ -16,21 +16,34 @@
 
 ### [SolView: AI 기반 맞춤형 면접 시뮬레이션 서비스](https://github.com/sol-view/solview)
 - WebRTC 기술을 활용한 P2P 화상 통신 시스템 구축
-- ChatGPT 4-o1 API 연동을 통한 지능형 AI 면접관 구현
+- ChatGPT 4-o Realtime API 연동을 통한 지능형 AI 면접관 구현
 - 면접 응답 데이터 기반 맞춤형 피드백 시스템 개발
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/></p>
+- 자기소개서 OCR 자동 분석 및 직무별 맞춤형 질문 생성 알고리즘 설계
+- OAuth2.0 기반 사용자 인증 및 JWT를 활용한 보안 시스템 구현
+- Jenkins와 Docker를 활용한 CI/CD 파이프라인 구축 및 자동화된 배포 환경 관리
+- 2025년 상반기 삼성청년SW아카데미(SSAFY) 특화 프로젝트 우수상 수상
+- **프로젝트 PM 역할 수행**: JIRA를 활용한 애자일 개발 프로세스 관리 및 스크럼 미팅 주도
+<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/></p>
+
 
 ### [실시간 인체 자세 인식 기반 자율주행 RC카](https://github.com/lim-siwoo/RcAct_RcCar)
 - MediaPipe 라이브러리를 활용한 실시간 인체 자세 인식 알고리즘 구현
 - 라즈베리파이5 기반 온디바이스 AI 연산 최적화
 - MQTT 프로토콜을 활용한 IoT 기기 간 실시간 통신 구현
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/></p>
+- Google STT와 ChatGPT API 연동을 통한 자연어 음성 명령 처리 및 대화형 AI 인터페이스 구현
+- Node-RED 기반 실시간 모니터링 대시보드 개발 및 시스템 로그 자동 요약 기능 구현
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white"/></p>
 
 ### [HarmonyXR: 메타버스 음악 협업 플랫폼](https://github.com/harmonyxr/harmonyxr)
 - WebXR과 WebRTC 기술을 활용한 가상현실 음악 협업 환경 개발
 - Three.js를 이용한 3D 악기 모델 및 가상 공간 구현
 - PeerJS 기반 P2P 실시간 통신 시스템 구축
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebXR-000000?style=flat-square&logo=webxr&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/></p>
+- 가상 기타 인터랙션 메커니즘 및 충돌 감지 시스템 개발
+- 60Hz 데이터 전송률로 사용자 간 위치 및 악기 동기화 최적화
+- 렌더링 성능 최적화를 통한 VR 환경에서의 프레임 드롭 현상 해결
+- Socket.io 기반 멀티룸 관리 및 사용자 연결 중개 시스템 개발
+- 2022년 소프트웨어학과 학부의 날 2등상 수상
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebXR-000000?style=flat-square&logo=webxr&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></p>
 
 ## 🛠️ Skills & Technologies
 
