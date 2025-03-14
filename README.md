@@ -84,7 +84,7 @@ skills = {
     
     "Embedded Systems": ["Raspberry Pi", "Arduino", "Linux", "MQTT"],
     
-    "Web Development": ["React", "Flask", "Node.js", "WebRTC", "Three.js"],
+    "Web Development": ["React", "Flask", "Node.js", "WebRTC", "Three.js", "Springboot"],
     
     "DevOps & Tools": ["Docker", "Git", "GitHub Actions", "CI/CD"],
     
