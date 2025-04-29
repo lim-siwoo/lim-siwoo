@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-임베디드 시스템과 컴퓨터 비전에 열정을 가진 개발자입니다. 제한된 하드웨어 환경에서 AI 솔루션을 최적화하는 것을 좋아합니다. 실시간 시스템 개발과 IoT 기기 통합에 관심이 많으며, 특히 AI 기술을 활용한 실생활 문제 해결에 집중하고 있습니다.
+임베디드 시스템과 네트워크에 열정을 가진 개발자입니다. 제한된 하드웨어 환경에서 AI 솔루션을 최적화하는 것을 좋아합니다. 실시간 시스템 개발과 IoT 기기 통합에 관심이 많으며, 특히 AI 기술을 활용한 실생활 문제 해결에 집중하고 있습니다.
 또한 Docker와 Jenkins를 활용한 CI/CD 파이프라인 구축 경험이 있으며, Spring Boot 기반의 RESTful API 개발 및 백엔드 시스템 설계에도 능숙합니다. 클라우드 환경과 온프레미스 환경 모두에서 안정적인 서비스 배포 및 운영 경험을 보유하고 있습니다.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhaGlrc2lrYXprM3N1ZnJxZ2R0ZzEyaXJ4bzlkazYzeWY5aHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
